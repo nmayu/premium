@@ -78,7 +78,7 @@ a:hover img {
 }
 
 .wrapper{
-  background: url("https://nmayu.github.io/premium//bg.png") 50% 0 repeat;
+  background: url("https://nmayu.github.io/premium/bg.png") 50% 0 repeat;
   width: 100%;
   min-width: 1116px;
   padding-bottom: 80px;
@@ -361,7 +361,7 @@ a:hover img {
     width: 100%;
     min-width: auto;
     padding-bottom: 40px;
-    background-color: url("https://nmayu.github.io/premium//sp_bg.png") 100%;
+    background-color: url("https://nmayu.github.io/premium/sp_bg.png") 100%;
   }
   .wrapper-in {
     background: none;
